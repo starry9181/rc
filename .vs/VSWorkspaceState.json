@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SRP_Dog",
+    "\\SRP_Dog\\F427frertos",
+    "\\SRP_Dog\\User",
+    "\\SRP_Dog\\User\\app",
+    "\\SRP_Dog\\User\\app\\src",
+    "\\SRP_Dog\\User\\task"
+  ],
+  "SelectedNode": "\\SRP_Dog\\User\\app\\src\\dog_control.c",
+  "PreviewInSolutionExplorer": false
+}
